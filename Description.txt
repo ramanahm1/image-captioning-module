@@ -1,0 +1,26 @@
+Let's have a quick chat about the clarifications. What would be the best time for you? let me know. 
+
+Also, are you willing to contribute? If so, I would want you to make a module of a subtask of the next experiment that I am going to perform. 
+The module will take an image and a prompt from the user (for example: prompt --> what is happening in this image?) and 
+generate a 5-7 word small and concise caption. For generating caption, keep and option to use video-captioner model 
+like clip,blip2 (use this for now) and also an option to use multi-modal LLM like LlaVA-7B (cover this for now), 16B,  GPT-4Vision. 
+I will write the same type of module for my experiment as well. We will meet in the middle and discuss about your experience as well as 
+I'll discuss about your clarification questions.
+Please share your github repo after creating your module. 
+In parallel, I would want you to download the oops dataset from this site (40GB). 
+If you have access to HPRC (grace2), use `wget` to download it directly to the server. 
+
+We can have discord/meet/zoom chat. I prefer discord. Let me know your preference as well.
+
+Thanks. 
+
+
+Inputs:
+
+image
+prompt
+
+video captioner
+clip and blip2
+
+Use CLIP to generate captions for videos.
